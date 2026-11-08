@@ -1,0 +1,59 @@
+{
+  "fetched": 10,
+  "semaphore_test": 5,
+  "new": 10,
+  "skipped": 0,
+  "counter": 10,
+  "results": [
+    {
+      "id": "dummy:0",
+      "status": "new",
+      "value": 50000
+    },
+    {
+      "id": "dummy:1",
+      "status": "new",
+      "value": 51000
+    },
+    {
+      "id": "dummy:2",
+      "status": "new",
+      "value": 52000
+    },
+    {
+      "id": "dummy:3",
+      "status": "new",
+      "value": 53000
+    },
+    {
+      "id": "dummy:4",
+      "status": "new",
+      "value": 54000
+    },
+    {
+      "id": "dummy:5",
+      "status": "new",
+      "value": 55000
+    },
+    {
+      "id": "dummy:6",
+      "status": "new",
+      "value": 56000
+    },
+    {
+      "id": "dummy:7",
+      "status": "new",
+      "value": 57000
+    },
+    {
+      "id": "dummy:8",
+      "status": "new",
+      "value": 58000
+    },
+    {
+      "id": "dummy:9",
+      "status": "new",
+      "value": 59000
+    }
+  ]
+}
